@@ -39,7 +39,7 @@ Thinkphp5 + Layui Fly Template实现的一个摄影网站项目，使用X-admin�
 
 
 #### 演示地址
-
+https://img.jsnu504.top/
 
 
 
