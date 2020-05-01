@@ -10,7 +10,6 @@ https://img.jsnu504.top/
 
 
 
-
 #### 安装教程
 
 
@@ -31,8 +30,12 @@ https://img.jsnu504.top/
 1.  服务器环境开启pathinfo，并且支持rewrite(伪静态)
 2.  暂时没想到其他需要注意的地方，
 3.  有问题可以直接在演示论坛里留言
-
-
+4.  后台地址：
+      http://yoursite.com/safwwa2-admin.php
+      账号：superadmin
+      密码：123456
+      safwwa2-admin.php 可以重命名
+      
 #### 技术栈/运行环境
 
 1.  Thinkphp5
