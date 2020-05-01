@@ -5,6 +5,11 @@ Thinkphp5 + Layui Fly Template实现的一个摄影网站项目，使用X-admin�
 
 
 
+#### 演示地址
+https://img.jsnu504.top/
+
+
+
 
 #### 安装教程
 
@@ -35,11 +40,6 @@ Thinkphp5 + Layui Fly Template实现的一个摄影网站项目，使用X-admin�
 3.  X-admin
 4.  php7
 5.  mysql5.7
-
-
-
-#### 演示地址
-https://img.jsnu504.top/
 
 
 
