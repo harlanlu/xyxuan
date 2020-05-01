@@ -34,7 +34,7 @@ https://img.jsnu504.top/
       http://yoursite.com/safwwa2-admin.php
       账号：superadmin
       密码：123456
-      safwwa2-admin.php 可以重命名
+5.   safwwa2-admin.php 可以重命名
       
 #### 技术栈/运行环境
 
